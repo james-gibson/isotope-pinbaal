@@ -71,8 +71,8 @@ export function Design() {
       </p>
 
       <div className="mt-8 rounded-xl border border-line bg-surface p-4 text-sm text-muted">
-        Motion budget: <span className="font-mono text-cream">{mode}</span> (the ladder would choose{' '}
-        <span className="font-mono text-cream">{auto}</span> on this page).
+        Motion budget: <span className="font-mono text-cream">{mode}</span> (default{' '}
+        <span className="font-mono text-cream">{auto}</span>).
       </div>
 
       <div className="mt-12">

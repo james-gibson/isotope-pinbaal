@@ -21,7 +21,7 @@ export function SiteHeader() {
             <span className="absolute -right-0.5 -bottom-0.5 h-1.5 w-1.5 rounded-full bg-violet" />
           </span>
           <span className="text-sm font-semibold tracking-tight text-cream">
-            le<span className="text-pulse">.</span>gume
+            isotope<span className="text-pulse">-</span>pinbaal
           </span>
         </NavLink>
 

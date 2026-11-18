@@ -9,7 +9,7 @@
  *
  * This child seed keeps the safety checks — base path, shells, leaks, links,
  * the machine entry, the feed, the size budget — and drops the checks that
- * enforced le.gume's product machinery (the seed ladder, isotope compounds, the
+ * enforced the parent seed's product machinery (the seed ladder, isotope compounds, the
  * examples kit, the offline deck, the no-script/no-stylesheet satire, the agent
  * handoff). RULES-08 sanctions a local override: the override is recorded in
  * this file, and the reason is the same as every other deletion here — the

@@ -11,17 +11,15 @@ import {
 /**
  * Era: 2026, or 1996.
  *
- * The "it's just a website" rung is not a mood, it is a rendering mode. Turning
- * it on applies a reset in the opposite direction — strip the modern layer, let
+ * A rendering mode, not a mood. Turning it on strips the modern layer and lets
  * the browser's own stylesheet show through — and the page has to survive that.
  * If it does not, it was not documentation.
  *
- * It is a stored toggle rather than a route, because the rung that used to
- * demonstrate it now renders as a file instead — see lib/fileview.tsx.
+ * Stored as a toggle rather than a route, so it persists across navigation.
  */
 export type Era = 'modern' | 'retro'
 
-const STORAGE_KEY = 'legume.era'
+const STORAGE_KEY = 'isotope-pinbaal.era'
 
 type EraState = {
   era: Era
